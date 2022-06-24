@@ -14,8 +14,6 @@ You might be wondering what a Leap Motion Controller is! Well, it's a dongle mad
 # Leap Motion SDK
 We used the Ultraleap Leapmotion SDK which supports varius compliers(C++, C#, Java, Python and more!). For us we we're looking to use Java so this was perfect. You can find the SDK here: https://github.com/leapmotion/leapjs
 
-
-
 # How to use?
 1. Get your hands on a Leap Motion Controller from Ultraleap (https://www.ultraleap.com/product/leap-motion-controller/)  
 2. Take a quick peak at both the Leap Motion SDK docs and the Twilio API docs to get a sense of what they do.
