@@ -11,18 +11,18 @@ You might be wondering what a Leap Motion Controller is! Well, it's a dongle mad
 
 ![image](https://user-images.githubusercontent.com/42983801/200339170-e450489d-f17b-4c14-9249-ec2e21a0e97e.png)
 
-# Leap Motion SDK
+## Leap Motion SDK
 We used the Ultraleap Leapmotion SDK which supports varius compliers(C++, C#, Java, Python and more!). For us we we're looking to use Java so this was perfect. You can find the SDK here: https://github.com/leapmotion/leapjs
 
-# Twilio APIs
+## Twilio APIs
 For sending programmable SMS and voice calls, you can find the documentation here: https://www.twilio.com/docs/all
 
-# How to use?
+## How to use?
 1. Get your hands on a Leap Motion Controller from Ultraleap (https://www.ultraleap.com/product/leap-motion-controller/)  
 2. Take a quick peak at both the Leap Motion SDK docs and the Twilio API docs to get a sense of what they do.
 3. run Sample.java
 
-# Awards
+## Awards
 Won Best Use of Twilio API Prize among 600 participants at University at Buffalo Hackathon 2018.
 
 ## Optimizations
