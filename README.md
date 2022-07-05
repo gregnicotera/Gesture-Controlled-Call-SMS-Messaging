@@ -20,7 +20,7 @@ For sending programmable SMS and voice calls, you can find the documentation her
 ## How to use?
 1. Get your hands on a Leap Motion Controller from Ultraleap (https://www.ultraleap.com/product/leap-motion-controller/)  
 2. Take a quick peak at both the Leap Motion SDK docs and the Twilio API docs to get a sense of what they do.
-3. run Sample.java
+3. run Gesture App.java
 
 ## Awards
 Won Best Use of Twilio API Prize among 600 participants at University at Buffalo Hackathon 2018.
