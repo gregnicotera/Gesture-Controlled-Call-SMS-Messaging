@@ -18,7 +18,8 @@ We used the Ultraleap Leapmotion SDK which supports varius compliers(C++, C#, Ja
 For sending programmable SMS and voice calls, you can find the documentation here: https://www.twilio.com/docs/all
 
 ## How to use?
-1. Get your hands on a Leap Motion Controller from Ultraleap (https://www.ultraleap.com/product/leap-motion-controller/)  
+1. Get your hands on a Leap Motion Controller from Ultraleap (https://www.ultraleap.com/product/leap-motion-controller/)
+2. Ensure appropriate version of Java Dev Kit is installed: https://www.oracle.com/java/technologies/downloads/
 2. Take a quick peak at both the Leap Motion SDK docs and the Twilio API docs to get a sense of what they do.
 3. run Gesture App.java
 
