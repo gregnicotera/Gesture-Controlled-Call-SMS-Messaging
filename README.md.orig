@@ -11,9 +11,6 @@ You might be wondering what a Leap Motion Controller is! Well, it's a dongle mad
 
 ![image](https://user-images.githubusercontent.com/42983801/200339170-e450489d-f17b-4c14-9249-ec2e21a0e97e.png)
 
-# How to use?
-* Get your hands on a Leap Motion Controller from Ultraleap (https://www.ultraleap.com/product/leap-motion-controller/)  and run Sample.java
-
 # Awards
 Won Best Use of Twilio API Prize among 600 participants at University at Buffalo Hackathon 2018.
 
