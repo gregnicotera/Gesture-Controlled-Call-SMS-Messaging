@@ -6,5 +6,10 @@ This project is a proof of concept that improves on mobile phone hands-free func
 
 We integrated Twilio framework for texts and voice calls with gesture detection on the Leap Motion Controller to send messages and calls simply by making a hand motion.
 
+## What is a Leap Motion Controller?
+You might be wondering what a Leap Motion Controller is! Well, it's a dongle made by Ultraleap with a USB interface, which means it can be connected right to your phone, although our prototype does run on a PC. Here's a picture:
+
+![image](https://user-images.githubusercontent.com/42983801/200339170-e450489d-f17b-4c14-9249-ec2e21a0e97e.png)
+
 # Awards
 Won Best Use of Twilio API Prize among 600 participants at University at Buffalo Hackathon 2018.
