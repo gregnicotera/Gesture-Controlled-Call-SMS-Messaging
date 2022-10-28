@@ -40,7 +40,7 @@ Won Best Use of Twilio API Prize among 600 participants at University at Buffalo
 
 We learned how to present a proof of concept. Also, that if you google something for enough hours you will find the answer!
 
-Stay flexible and fail fast - During the buildout of this project, we had to make a pivot of direction to end up with this idea. 
+Stay flexible and fail fast - During the buildout of this project, we had to make a pivot of direction to end up with current project. 
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
