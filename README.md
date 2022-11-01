@@ -31,7 +31,7 @@ Won Best Use of Twilio API Prize among 600 participants at University at Buffalo
 
 ## Optimizations
 
-1. We wrote this prototype to be ran on a computer but ideally it would be made on android platform with Java or iOS platform with Swift. 
+1. We built this prototype to be ran on a computer but ideally it would be run on android platform with Java or iOS platform with Swift. 
 
 2. Another improvement we would make is with the hardware itself. We would modify the Leap Motion hardware to have a male USB-C plug along the long edge so that it could be plugged directly into the bottom of a mobile phone while it's mounted on a dashboard magnet like so:
 ![image](https://user-images.githubusercontent.com/42983801/200352966-002e9c32-15c8-4ab5-85b7-7c4176a537ed.png)
