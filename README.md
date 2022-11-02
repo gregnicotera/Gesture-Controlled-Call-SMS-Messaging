@@ -17,6 +17,9 @@ We used the Ultraleap Leapmotion SDK which supports varius compliers(C++, C#, Ja
 ## Twilio APIs
 For sending programmable SMS and voice calls, you can find the documentation here: https://www.twilio.com/docs/all
 
+## What is SWIG
+SWIG is an open source code container. It was used for the Leap motion source code in C++ to be compatible with Java
+
 ## How to use?
 1. Get your hands on a Leap Motion Controller from Ultraleap (https://www.ultraleap.com/product/leap-motion-controller/)
 2. Ensure appropriate version of Java Dev Kit is installed: https://www.oracle.com/java/technologies/downloads/
@@ -28,7 +31,7 @@ Won Best Use of Twilio API Prize among 600 participants at University at Buffalo
 
 ## Optimizations
 
-1. We wrote this prototype to be ran on a computer but would make an android app with Java or iOS app with Swift. 
+1. We wrote this prototype to be ran on a computer but ideally it would be made on android platform with Java or iOS platform with Swift. 
 
 2. Another improvement we would make is with the hardware itself. We would modify the Leap Motion hardware to have a male USB-C plug along the long edge so that it could be plugged directly into the bottom of a mobile phone while it's mounted on a dashboard magnet like so:
 ![image](https://user-images.githubusercontent.com/42983801/200352966-002e9c32-15c8-4ab5-85b7-7c4176a537ed.png)
