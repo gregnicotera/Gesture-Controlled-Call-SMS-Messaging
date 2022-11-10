@@ -7,7 +7,7 @@ This project is a proof of concept that improves on mobile phone hands-free func
 We integrated Twilio framework for texts and voice calls with gesture detection on the Leap Motion Controller to send messages and calls simply by making a hand motion.
 
 ## What is a Leap Motion Controller?
-You might be wondering what a Leap Motion Controller is! Well, it's a dongle made by Ultraleap with a USB interface, which means it can be connected right to your phone, although our prototype does run on a PC. Here's a picture:
+You might be wondering what a Leap Motion Controller is! It's a dongle made by Ultraleap with a USB interface, which means it can be connected right to your phone, although our prototype does run on a PC. Here's a picture:
 
 ![image](https://user-images.githubusercontent.com/42983801/200339170-e450489d-f17b-4c14-9249-ec2e21a0e97e.png)
 
@@ -31,15 +31,16 @@ Won Best Use of Twilio API Prize among 600 participants at University at Buffalo
 
 ## Optimizations
 
-1. We built this prototype to be ran on a computer but ideally it would be run on android platform with Java or iOS platform with Swift. 
+1. Make mobile app - We built this prototype to be ran on a computer but ideally it would be run on android platform with Java or iOS platform with Swift. 
 
-2. Another improvement we would make is with the hardware itself. We would modify the Leap Motion hardware to have a male USB-C plug along the long edge so that it could be plugged directly into the bottom of a mobile phone while it's mounted on a dashboard magnet like so:
+2. Modify hardware - Another improvement we would make is with the hardware itself. We would modify the Leap Motion hardware to have a male USB-C plug along the long edge so that it could be plugged directly into the bottom of a mobile phone while it's mounted on a dashboard magnet like so:
 ![image](https://user-images.githubusercontent.com/42983801/200352966-002e9c32-15c8-4ab5-85b7-7c4176a537ed.png)
 
 ## Lessons Learned:
 
 We learned how to present a proof of concept. Also, that if you google something for enough hours you will find the answer!
 
+Stay flexible and fail fast - During the buildout of this project, we had to make a pivot of direction to end up with this idea. 
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
